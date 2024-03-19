@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping While", "Prosedur d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping Do While", "Looping Do While\Looping Do While.vcxproj", "{4615D8DA-3E78-4BA4-B4D0-35164C7E888D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prosedur & Fungsi", "Prosedur & Fungsi\Prosedur & Fungsi.vcxproj", "{A40B37CA-5749-47E1-A475-2029682F3C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{4615D8DA-3E78-4BA4-B4D0-35164C7E888D}.Release|x64.Build.0 = Release|x64
 		{4615D8DA-3E78-4BA4-B4D0-35164C7E888D}.Release|x86.ActiveCfg = Release|Win32
 		{4615D8DA-3E78-4BA4-B4D0-35164C7E888D}.Release|x86.Build.0 = Release|Win32
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Debug|x64.ActiveCfg = Debug|x64
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Debug|x64.Build.0 = Debug|x64
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Debug|x86.ActiveCfg = Debug|Win32
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Debug|x86.Build.0 = Debug|Win32
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Release|x64.ActiveCfg = Release|x64
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Release|x64.Build.0 = Release|x64
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Release|x86.ActiveCfg = Release|Win32
+		{A40B37CA-5749-47E1-A475-2029682F3C22}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
